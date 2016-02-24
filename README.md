@@ -6,6 +6,7 @@
 -   No actual database implementation is required, feel free to stub it out.
 -   No server side implementation is required, although it will be preferable to see how you handle client-server communication.
 -   Your code should trend towards being SOLID.
+-   Please don't spend too long on it, 60 minutes at most.
 
 **General description:**
 
